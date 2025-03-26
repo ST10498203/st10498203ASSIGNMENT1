@@ -1,0 +1,26 @@
+name: Android BUild
+on:
+  push:
+    branches:  [  "main"  ]
+
+jobs:
+    build:
+       runs-on:  ubuntu-latest
+
+       steps:
+        - name: Check out resporitory
+          uses: actions/checkout@v2
+        
+        - name: Set up JDK 17
+          uses: actions/setup-java@v2
+          with:
+            distribution: 'zulu' # or 'temurin' if you prefer
+            java-version: 17
+
+        - name: Make gradllew excutable
+          run: chmod +x gradlew
+
+        - name: Build with Gradle
+          run: ./gradlew assembleDebug
+          
+  
