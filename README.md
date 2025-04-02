@@ -2,10 +2,10 @@
 # Epalenzi Chiguruguru
 
 # Purpose : 
-Created the APP for Stacy so iuts easier to pick her meal on a daily basis.
+Created the APP for Stacy so its easier for her to pick her meal on a daily basis.
 
 # Features :
-The app allows the user (Stacy) to eneter the time of day and it autamatically views out meal options for her. The app not only gives one option for your meal but two and you can personally decide wich one you would prefer.
+The app allows the user (Stacy) to eneter the time of day and it autamatically views out meal options for her. The app not only gives one option for your meal but two and you can personally decide wich one you would prefer.If the user has a typing mistake/typo, the app notifies the user to check any spelling mistakes. The app consist of a search an reset buttton. Search button there for user to search for the meal of the time of day they presfer. The reset button is there is to reset the app so user can use it again.
 
 # ScreenShots:
 // This in the front page that the user views the moment they open the app
@@ -46,6 +46,7 @@ The app allows the user (Stacy) to eneter the time of day and it autamatically v
 https://github.com/ST10498203/st10498203ASSIGNMENT1.git
 
 # YouTube Link
+https://youtu.be/E9_4fxa4aKs
 
 
 
