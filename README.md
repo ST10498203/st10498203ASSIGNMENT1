@@ -5,9 +5,14 @@
 # Features : The app allows the user (Stacy) to eneter the time of day and it autamatically views out meal options for her. The app not only gives one option for your meal but two and you can personally decide wich one you would prefer.
 
 # ScreenShots:
-https://github.com/ST10498203/st10498203ASSIGNMENT1/blob/master/Screenshot%202025-04-02%20000059.png
-https://github.com/ST10498203/st10498203ASSIGNMENT1/commit/602534f3f3732066c08842ae0ee562820a20b508
-https://github.com/ST10498203/st10498203ASSIGNMENT1/blob/master/Screenshot%202025-04-02%20004820.png
+// This in the front page that the user views the moment they open the app
+![Screenshot 2025-04-02 085107](https://github.com/user-attachments/assets/40c57148-2297-4d34-8448-a3a684ad6021)
+
+// You have entered afternoon on the "enter time of day edit text"
+![Screenshot 2025-04-02 004820](https://github.com/user-attachments/assets/04b4eb7c-3a90-4964-9673-96c266ac9bc6)
+
+//Click the button reset app in ordr to enter a new time of day
+![Screenshot 2025-04-02 004735](https://github.com/user-attachments/assets/60484d92-8afd-49a4-bbed-ba08c9e4f41b)
 
 Installation process:
 1.Open up your virtuall machine
