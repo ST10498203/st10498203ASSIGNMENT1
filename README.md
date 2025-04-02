@@ -11,13 +11,25 @@
 // You have entered afternoon on the "enter time of day edit text"
 ![Screenshot 2025-04-02 004820](https://github.com/user-attachments/assets/04b4eb7c-3a90-4964-9673-96c266ac9bc6)
 
+// The Error message when wrong time of day is enterd 
+![Error message](https://github.com/user-attachments/assets/494a5031-cbc1-4117-b9c5-b1c7ab8c2e9f)
+
 //Click the button reset app in ordr to enter a new time of day
 ![Screenshot 2025-04-02 004735](https://github.com/user-attachments/assets/60484d92-8afd-49a4-bbed-ba08c9e4f41b)
 
-Installation process:
+# Installation process and Instructions:
 1.Open up your virtuall machine
-2.Open Android studio
-3.
+2.Open Android studio , Bluestacks and Run for blue stacks 
+3.In Android Studio go to main activity 
+4.click on run app
+5.Open bluestcack 
+6.in the app on "Enter time of day"
+7.Type in the time of day needed
+8.click on "search" button 
+9.Two meals are provided 
+10.To reset app click on the "reset app"
+
+
 
 
 
