@@ -19,14 +19,23 @@
 
 # Installation process and Instructions:
 1.Open up your virtuall machine
+
 2.Open Android studio , Bluestacks and Run for blue stacks 
+
 3.In Android Studio go to main activity 
+
 4.click on run app
+
 5.Open bluestcack 
+
 6.in the app on "Enter time of day"
+
 7.Type in the time of day needed
+
 8.click on "search" button 
+
 9.Two meals are provided 
+
 10.To reset app click on the "reset app"
 
 
